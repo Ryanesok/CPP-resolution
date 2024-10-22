@@ -1,0 +1,5 @@
+CPP Resolution
+- Belajar cpp sampai mampus
+- janlup buat minimal 1 hari ngoding cpp
+- klo gk ngoding, minimal baca dokumentasi
+- klo gk baca dokumentasi, liat-liat tutorial
