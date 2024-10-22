@@ -1,0 +1,12 @@
+Rencana koding
+
+- helloworld
+    # Membuat File sederhana
+- pengenalan tipe data
+    # String, Integer, Double, Float, Boolean
+- Konstanta & variable
+    # komparasi Variable dan Konstanta
+- Fungsi
+- Ekspresi, operator & operan
+- User-input 
+- Comment
