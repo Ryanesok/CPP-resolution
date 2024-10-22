@@ -3,3 +3,4 @@ CPP Resolution
 - janlup buat minimal 1 hari ngoding cpp
 - klo gk ngoding, minimal baca dokumentasi
 - klo gk baca dokumentasi, liat-liat tutorial
+- klo gk liat tutorial, balik ngoding
