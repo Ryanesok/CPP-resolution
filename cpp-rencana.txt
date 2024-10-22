@@ -1,0 +1,9 @@
+Rencana koding
+
+- helloworld
+- pengenalan tipe data
+- Konstanta & variable
+- Fungsi
+- Ekspresi, operator & operan
+- User-input 
+- Comment
