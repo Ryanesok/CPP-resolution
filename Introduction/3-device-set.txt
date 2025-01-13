@@ -1,0 +1,18 @@
+Sebelum menulis program, terdapat beberapa alat yang diperlukan, seperti:
+- Source Code Editor:   untuk menulis program, seperti VScode, notepad++, 
+                        C++-Dev dan lain-lain
+
+                        untuk mendownload source code editor silahkan kunjungi:
+                        VScode: https://code.visualstudio.com/
+                        Notepad++: https://notepad-plus-plus.org/downloads/
+                        C++-Dev: https://www.bloodshed.net/
+
+                        Yang disarankan dari semua SC-Editor diatas adalah VScode, karena
+                        dapat memudahkan bahkan pemula sekalipun.
+
+- Compiler:             adalah alat yang digunakan untuk menerjemahkan bahasa program
+                        ke dalam bahasa mesin. kenapa harus diterjemahkan?
+                        bisa dilihat selengkapnya pada:
+                        https://www.techtarget.com/whatis/definition/compiler#:~:text=A%20compiler%20is%20a%20special,bytecode%20or%20another%20programming%20language.
+
+Silahkan pindah ke Folder Device-setup untuk memasang SC-editor.

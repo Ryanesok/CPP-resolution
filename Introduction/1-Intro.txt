@@ -1,0 +1,36 @@
+CPP adalah bahasa pemrograman yang umum, dia bisa digunakan di banyak kasus
+CPP didesain dan diimplementasikan oleh Bjarne Stroustrup di tahun 1979
+CPP adalah ekstensi dari bahasa C yang lebih kuat
+dapat berjalan pada banyak platform, seperti windows, Mac, dan UNIX
+tambahan fitur yang dimaksud dari CPP adalah C dengan Classes, dimana dalam bahasa C sendiri belum ada Classes
+
+pada dasarnya, CPP adalah
+- Bahasa C tapi lebih baik
+- Support data abstraction
+- Support OOP
+- Support programming general
+
+Penamaan C++ sendiri berasal dari operator increment yang dimiliki C, yaitu ++.
+Contohnya adalah:
+i = 6           //nilai i sama dengan 6
+i++             //nilai i ditambah dengan operator increment
+maka, i = 7     //nilai i sekarang adalah 7
+Karena operator increment adalah "Penambahan", maka nama CPP berarti Bahasa C, ditambah fitur (++)
+
+Apakah harus belajar C dulu untuk mengerti CPP?
+Apakah harus belajar bahasa lainnya sebelum belajar CPP?
+jawabannya adalah TIDAK, karena CPP sendiri adalah bahasa yang komplit, berdiri sendiri.
+namun, jika sebelumnya sudah pernah belajar bahasa C, maka itu akan lebih baik
+
+Beberapa Topik yang akan dipelajari, yaitu:
+1. Introduction 
+2. Variable dan Basic Types
+3. Strings, Vector, dan array
+4. Expression
+5. Statements
+6. Function
+7. Classes
+8. IO library
+9. Overload Operation dan conversion
+10. OOP (Object-oriented programming)
+

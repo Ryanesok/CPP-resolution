@@ -1,0 +1,35 @@
+Untuk memasang aplikasi SC-Editor Vscode beserta Kompilernya, 
+silahkan ikuti langkah berikut:
+
+- periksa OS yang digunakan (windows, Mac, Linux)
+
+- pergi ke website official vscode: 
+    https://code.visualstudio.com/
+
+- download sesuai dengan OS masing-masing
+- setelah selesai, ikuti panduan instalasi dan buka VScode
+
+-   kenapa disarankan menggunakan vscode? karena SC-editor ini sangat fleksibel
+    bisa digunakan untuk semua bahasa pemrograman, seperti java, php, C, dan masih banyak lagi
+    dengan fitur ekstensi, vscode bisa digunakan untuk menulis kode program dalam bahasa apapun
+
+- klik icon ekstensi pada sidebar sebelah kiri, ketikkan "C++" pada kolom pencarian, dan install 
+    ekstensi C++ yang berasal dari microsoft
+
+    ekstensi tersebut akan membantu kita dalam menulis program dengan lebih baik
+
+- setelah memasang SC-editor, silahkan pergi ke situs berikut:
+    https://www.msys2.org/
+    untuk mendownload compiler.
+    download dan ikuti panduan pada web untuk konfigurasi compiler
+
+- setelah semuanya selesai dipasang, cek apakah semuanya telah berhasil terinstall
+    jika terdapat error, seperti compiler tidak ditemukan, cek kembali apakah path dari compiler sudah benar
+    ketikkan g++ --version atau gcc --version pada CMD untuk melihat apakah sudah terinstall
+
+- jika sudah, Perjalanan coding c++ siap dimulai!
+
+
+
+
+

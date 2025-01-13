@@ -1,0 +1,46 @@
+Sebelum menulis Program dalam CPP, kenali beberapa istilah berikut:
+- Function: setiap program CPP harus terdapat satu atau lebih function,
+            dan salah satu dari function tersebut disebut 'main'
+
+            OS mu akan menjalankan program yang memiliki function main terlebih dahulu
+            sehingga pastikan programmu memiliki function main
+
+            contoh:
+            int main(){
+                return 0;
+            }
+
+            sebuah fungsi memiliki setidaknya 4 hal berikut:
+            - return type (bisa berupa int, double, boolean, tergantung type dari function)
+            - nama function (nama diberikan setelah definisi typenya, misal: int angka)
+            - parameter () => bisa kosong, dan bisa diisi dengan Variable
+            - badan Function, diapit oleh kurung kurawal {} 
+
+            pada contoh diatas, return typenya adalah int, dengan nama main, parameter kosong 
+            dan return 0, di mana function integer harus mengembalikan nilai integer juga ke dalam OS
+
+- Header:   setiap program CPP harus ada library atau header yang dipanggil menggunakan include.
+            paling tidak ada library <iostream>, ini digunakan untuk melakukan print dan input pada console
+            library lain dapat dipanggil jika suatu fungsi khusus terdapat pada library tersebut
+
+- titik koma: setiap statements pada CPP selalu diakhiri dengan titik koma (;) 
+
+- types:    adalah satu dari fundamental konsep dalam programming.
+
+            sebuah type mendefinisikan konten dari data element sekaligus 
+            operasi yang dapat dijalankan pada data tersebut.
+
+            contoh:
+            - int a = 10 
+            - char x = 's'
+            - double r = 3.14
+            
+            dapat kita katakan "a memiliki type integer" atau "a adalah integer"
+            perlu diperhatikan bahwa nilai data yang bersifat bilangan tidak memerlukan tanda petik
+            sehingga dapat disimpulkan jika suatu data memiliki nilai berupa bilangan, data itu berada pada 
+            type integer atau double jika memiliki angka dibelakang koma.
+
+Contoh full program dapat dilihat pada folder CPP-MainProgress
+
+
+        
