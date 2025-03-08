@@ -1,0 +1,35 @@
+Dalam C++, terdapat syntax yang digunakan untuk mengambil input dari komputer dan menampilkannya pada console.
+
+Yaitu:
+Cin = Console in, adalah syntax yang digunakan untuk mengambil input dari komputer (user Input).
+Cout = Console out, adalah syntax yang digunakan untuk menampilkan hasil input ke console.
+
+penggunaannya pun sederhana, 
+untuk Cin, gunakan tanda >> "Ambil dari"   |  sumber >> target
+untuk Cout, gunakan tanda << "letakkan ke" |  target << sumber
+
+- bekerja untuk semua fundamental types dan strings
+- >> membaca sampai space kosong karakter berikutnya, contoh cin >> i >> e;  (setelah i, pembacaan selesai, lanjut ke e)
+- bisa di gabung
+
+contohnya:
+std::cin >> i >> d;                     | Input gabungan
+std::cout << "Your input\n"             | 
+          << i << " and " << d << "\n"; |   
+
+penggunaan endl (endline) bawaan sangat tidak dianjurkan, seperti:
+std::cout << "text" << std::endl;   (X)
+std::cout << "text" << std::endl;   (X)
+
+- setiap panggilan std::endl, akan mengganti buffer output dan langsung menulis output.
+- hal ini akan mengakibatkan degradasi performa, jika dilakukan sering.
+
+C++ I/O stream menggunakan buffer untuk menghalau tabrakan performa dari operasi input atau output system. output dikumpulkan
+dalam satu kali pengumpulan sampai jumlah minimum karakter dapat ditulis. menggunakan std::endl akan mengintervensi mekanisme ini.
+
+lebih baik menggunakan linebreak menggunakan \n.
+contoh: std::cout << "text\ntext";
+
+- tidak ada penggantian output buffer
+- hanya menggunakan satu operator (<<) alias hemat
+- gunakan std::endl ketika kamu benar2 yakin kalau outputnya harus segera dikeluarkan.

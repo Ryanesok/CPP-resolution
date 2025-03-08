@@ -2,7 +2,9 @@
 #include <iostream>
 
 //fungsi untuk mempersingkat command standar pada I/O
+//tapi lebih baik tidak menggunakan namespace karena ditakutkan akan terjadinya konflik nama
 using namespace std;
+//karena namespace membuat semua simbol menjadi global namespace
 
 //fungsi utama yang akan dieksekusi pertama kali
 int main(){
