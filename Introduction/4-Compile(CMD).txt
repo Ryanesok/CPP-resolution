@@ -9,7 +9,7 @@ Hal yang harus dilakukan untuk meng-compile sc pada CMD adalah:
 5. arahkan ke dalam path dari file yang tersimpan, misalnya adalah CPP-mainProgress/
 6. jalankan g++ <nama-file.cpp>, jika tidak ada error, maka program berhasil di compile
 7. jalankan output tersebut dengan mengetik <nama-output-program.exe>
-    biasanya berupa a.exe, jika ingin mengubah nama maka pada command tambahkan:
+    secara default berupa a.exe, jika ingin mengubah nama maka pada command tambahkan:
     g++ <nama-file.cpp> -o <nama-output.exe> 
 8. program sudah selesai dijalankan, jika ingin mengubah source code,
     pastikan untuk meng-compile source code sebelum dijalankan kembali
